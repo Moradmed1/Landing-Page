@@ -1,4 +1,9 @@
 <h1 align="center">💫 Project  Landing Page 💫</h1>
+<p align="center"><img src="https://img.shields.io/badge/Created_By-Sayantan_Bera-blue"> <img src="https://img.shields.io/badge/Using-HTML_CSS-red"></p>
+
+<h2>🚀 Watch Live :</h2>
+
+[www.developer-portfolio-landing-page.com](https://developer-portfolio-landing-page-s25.netlify.app/)
 
 
 <h2>👁️ Project Overview :</h2>
