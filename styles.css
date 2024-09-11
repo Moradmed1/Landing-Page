@@ -86,7 +86,7 @@ body {
 }
 
 .hero-container--fontBig {
-	font-size: 6.4rem;
+	font-size: 6rem;
 }
 
 .hero-container div {
@@ -104,13 +104,13 @@ body {
 }
 
 .black-box-container h3 {
-	font-size: 8rem;
+	font-size: 6rem;
 	font-weight: 400;
 	color: white;
 }
 
 .black-box-container span {
-	font-size: 9.6rem;
+	font-size: 7.6rem;
 	color: white;
 }
 
