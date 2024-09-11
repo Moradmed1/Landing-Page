@@ -82,6 +82,7 @@ body {
 	line-height: 1.2;
 	text-shadow: -1px -1px 3px #020202, 2px 2px 4px #1b1b1b;
 	font-size: 1.6rem;
+	text-align: center
 }
 
 .hero-container--fontBig {
